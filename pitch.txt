@@ -1,0 +1,18 @@
+Game Programming
+
+My game idea is a side scrolling game. It is a survival game inwhich 
+the player has to kill the incoming monsters.
+
+The scenario will show a counter the points collected and his life.
+
+The player is a knight and he has to kill the monsters.
+The player can jump and slash the incoming monsters. The monsters 
+will spawn randomly. If the player failed to kill the monster, he 
+loses a life. The player can collect potions to restore his lives.
+
+The game is endless unless the player loses all of his lives.
+
+This game is inspired by mobile games.
+
+I am looking for someone who cooperates and also enjoys what
+their doing.
